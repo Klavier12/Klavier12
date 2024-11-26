@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="ruta_de_tu_imagen" alt="Imagen de perfil" width="200" />
+  👋 Hi, There!
 </p>
 
 <p align="center">
-  👋 Hi, There!
+  <img src="ruta_de_tu_imagen" alt="Imagen de perfil" width="200" />
 </p>
 
 <h1 align="center">👨‍💻 Data Scientist 👨‍💻</h1>
 <p align="center">
 💻🎓 <strong>Economist with experience in IT Project Management</strong> 🎓💻  
 🎹🎼 <strong>Pianist and Clarinetist passionate about music and technology</strong> 🎼🎹  
-🏋️‍♂️💪 <strong>Fitness enthusiast who enjoys working out (gym)</strong> 💪🏋️‍♂️  
+🏋️‍♂️💪 <strong>Fitness enthusiast who enjoys working out </strong> 💪🏋️‍♂️  
 🌍💬 <strong>Polyglot with a love for challenges and continuous learning</strong> 💬🌍  
 📍🌆 <strong>Location:</strong> Bogotá, Colombia  
 </p>
