@@ -26,8 +26,6 @@ I am a **Data Scientist** with a Master's degree in **Economics and Finance**. M
 ✔️ Experienced Project Manager with expertise in agile methodologies.  
 ✔️ Fluent in five languages: Spanish, English, Russian, French, and German.  
 
-🎵 Besides my technical background, I am a **musician**, playing the **piano** and **clarinet**, which enhances my creativity and adaptability.  
-
 ---
 
 <h2 align="center">💻 Technical Skills</h2>
