@@ -59,10 +59,10 @@ I am a **Data Scientist** with a Master's degree in **Economics and Finance**. M
 
 ## 📈 **GitHub Stats**  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your_username&theme=radical" alt="Current Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=radical" alt="Most Used Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&count_private=true&hide=contribs&theme=radical" alt="Total Contributions" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Klavier12&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Klavier12&theme=radical" alt="Current Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klavier12&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Klavier12&show_icons=true&count_private=true&hide=contribs&theme=radical" alt="Total Contributions" />
 </p>
 
 ---
