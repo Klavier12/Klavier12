@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="
+![Klavier GitHub](https://github.com/user-attachments/assets/ca08b880-520e-40ab-85d6-b68bac6f7f74)" alt="Imagen de perfil" width="200" />
+</p>
+
 <h1 align="center">👨‍💻 Data Scientist 👨‍💻</h1>
 <p align="center">
 💻🎓 <strong>Economist with experience in IT Project Management</strong> 🎓💻  
