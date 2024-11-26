@@ -1,11 +1,3 @@
-<p align="center">
-  👋 Hi, There!
-</p>
-
-<p align="center">
-  <img src="ruta_de_tu_imagen" alt="Imagen de perfil" width="200" />
-</p>
-
 <h1 align="center">👨‍💻 Data Scientist 👨‍💻</h1>
 <p align="center">
 💻🎓 <strong>Economist with experience in IT Project Management</strong> 🎓💻  
