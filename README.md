@@ -1,8 +1,15 @@
-# 👨‍💻**Data Scientist** 👨‍💻  
-💻🎓 **Economist with experience in IT Project Management** 🎓💻  
-🎹🎼 **Pianist and Clarinetist passionate about music and technology** 🎼🎹  
-🌍💬 **Polyglot with a love for challenges and continuous learning** 💬🌍  
-📍🌆 **Location:** [Bogotá, Colombia]  
+<div align="center">
+  <h1>👋 Hi, There!</h1>
+  <img src="https://via.placeholder.com/150" alt="Your Image" width="150" />
+</div>
+
+<div align="center">
+  <h1>👨‍💻**Data Scientist** 👨‍💻</h1>
+  <p>💻🎓 <b>Economist with experience in IT Project Management</b> 🎓💻</p>
+  <p>🎹🎼 <b>Pianist and Clarinetist passionate about music and technology</b> 🎼🎹</p>
+  <p>🌍💬 <b>Polyglot with a love for challenges and continuous learning</b> 💬🌍</p>
+  <p>📍🌆 <b>Location:</b> Bogotá, Colombia</p>
+</div>
 
 ---
 
@@ -13,6 +20,8 @@ I am a **Data Scientist** with a Master's degree in **Economics and Finance**. M
 ✔️ Knowledge in **Machine Learning** (supervised & unsupervised models).  
 ✔️ Proven ability to turn complex data into strategic insights.  
 ✔️ Strong collaboration skills in multicultural and multidisciplinary teams.  
+✔️ Multilingual proficiency enhances adaptability and cultural understanding.  
+✔️ Extensive experience in **project management**, coordinating complex tasks across various domains.  
 
 🎵 Besides my technical background, I am a **musician**, playing the **piano** and **clarinet**, which enhances my creativity and adaptability.  
 
@@ -27,7 +36,7 @@ I am a **Data Scientist** with a Master's degree in **Economics and Finance**. M
 
 ## 💻 **Technical Skills**  
 ### 🔢 **Programming and Data Analysis**  
-- Python: Pandas, NumPy, Matplotlib, Seaborn, SciPy  
+- Python: Pandas, NumPy, Matplotlib, Seaborn, Pyplot, SciPy  
 - Machine Learning: Supervised & Unsupervised Models  
 - ETL workflows and Exploratory Data Analysis  
 
@@ -35,12 +44,15 @@ I am a **Data Scientist** with a Master's degree in **Economics and Finance**. M
 - SQL (MySQL)  
 - Power BI (Interactive dashboards, KPIs)  
 - Streamlit (Web apps for data solutions)  
+- Plotly (Advanced Visualizations)  
 
 ### 🛠️ **Tools and Methodologies**  
 - Git & GitHub  
 - Jira (Agile Project Management)  
 - SCRUM Methodology  
 - Visual Studio Code & Jupyter  
+- Microsoft Project (Task and Team Management)  
+- Canva (Creative Presentations and Visualizations)  
 
 ---
 
@@ -53,6 +65,13 @@ I am a **Data Scientist** with a Master's degree in **Economics and Finance**. M
   <img src="https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=flat-square" alt="Jira" />
   <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat-square" alt="Streamlit" />
   <img src="https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat-square" alt="Power BI" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square" alt="MySQL" />
+  <img src="https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white&style=flat-square" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/-Seaborn-117A65?style=flat-square" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/-Pyplot-FFC300?style=flat-square" alt="Pyplot" />
+  <img src="https://img.shields.io/badge/-Plotly-3E4BA3?logo=plotly&logoColor=white&style=flat-square" alt="Plotly" />
+  <img src="https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white&style=flat-square" alt="Canva" />
+  <img src="https://img.shields.io/badge/-Microsoft%20Project-217346?logo=microsoftproject&logoColor=white&style=flat-square" alt="Microsoft Project" />
 </p>
 
 ---
