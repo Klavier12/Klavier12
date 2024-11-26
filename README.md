@@ -1,4 +1,4 @@
-# 👨‍💻🎵 **Data Scientist** 🎵👨‍💻  
+# 👨‍💻**Data Scientist** 👨‍💻  
 💻🎓 **Economist with experience in IT Project Management** 🎓💻  
 🎹🎼 **Pianist and Clarinetist passionate about music and technology** 🎼🎹  
 🌍💬 **Polyglot with a love for challenges and continuous learning** 💬🌍  
